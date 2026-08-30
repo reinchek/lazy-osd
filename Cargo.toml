@@ -1,0 +1,24 @@
+[package]
+name = "LazyOSD"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ddc-hi = "0.4.1"
+eframe = "0.36.1"
+egui = "0.36.1"
+catppuccin-egui = { version = "5.7.0", default-features = false, features = ["egui33"] }
+serde = { version = "1.0.229", features = ["derive"] }
+
+[profile.dev]
+debug = "line-tables-only"
+
+[profile.dev.package."*"]
+debug = false
+
+[profile.debugging]
+inherits = "dev"
+debug = true
+
+[build]
+rustflags = "-Zthreads=8"
