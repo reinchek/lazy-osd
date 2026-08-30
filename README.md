@@ -1,4 +1,4 @@
-<video src="https://github.com/reinchek/repository-public-assets/raw/refs/heads/main/lazy-osd/lazy-osd-demo.mp4" controls></video>
+<video src="https://private-user-images.githubusercontent.com/5970704/643234157-52cf9ea1-e842-4b8a-8dc7-1985d2c9c3b4.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgwOTc3NDIsIm5iZiI6MTc4ODA5NzQ0MiwicGF0aCI6Ii81OTcwNzA0LzY0MzIzNDE1Ny01MmNmOWVhMS1lODQyLTRiOGEtOGRjNy0xOTg1ZDJjOWMzYjQubXA0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDgzMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA4MzBUMTM0NDAyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NWQ4YmYzNDI3YzVlNDE1NGRhMTAxZTBjZGJkNDMxMjgyYmQxNWQ2NDk0ZTVlZTEyOWQ4M2U0NWFmYmFmM2JhMiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPXZpZGVvJTJGbXA0In0.VoCAhPNTPBpVXS_jC_lVMxFvotsvzB-dh5dkMGcnLsE" controls></video>
 
 # DDC/CI OSD Manager
 A rust desktop application to control monitor OSD settings (brightness, contrast, input source, color, and more) via DDC/CI, built with Rust, egui/eframe, and ddc-hi.
